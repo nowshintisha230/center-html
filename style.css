@@ -1,0 +1,40 @@
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin:10px;
+}
+nav a{
+    text-decoration: none;
+}
+nav li:hover{
+background-color: aquamarine;
+}
+
+.body{
+    background-color: antiquewhite;
+    height:auto;
+    weight:auto;
+
+}
+.body h1{
+    text-decoration: underline;
+    color: blueviolet;
+    text-align: center;
+}
+.body button{
+background-color: lightcoral;
+margin:10px;
+padding:20px 60px;
+}
+.con {
+    display: flex;
+}
+   
+.con img{
+    
+    height:390px;
+    weight:300px;
+}
+
