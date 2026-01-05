@@ -13,7 +13,7 @@ background-color: aquamarine;
 }
 
 .body{
-    background-color: antiquewhite;
+  
     height:auto;
     weight:auto;
 
@@ -24,17 +24,27 @@ background-color: aquamarine;
     text-align: center;
 }
 .body button{
-background-color: lightcoral;
+background-color: lightpink;
 margin:10px;
 padding:20px 60px;
 }
 .con {
     display: flex;
+    background-color: aquamarine;
+    border:5px solid blue;
+    border-radius: 8px;
+    margin:20px;
+    padding:20px;
 }
    
 .con img{
     
-    height:390px;
-    weight:300px;
+    height:300px;
+    weight:190px;
+    border:2px solid black;
+    border-radius: 9px;
+    align-items: center;
+    margin:50px;
+    padding:29px;
 }
 
